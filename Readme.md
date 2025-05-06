@@ -5,6 +5,8 @@ The **Email Reply Generator** is an AI-powered tool that helps users craft profe
 🔗 **Live Demo Screenshot**
 ![App UI](./images/home.png)
 
+![Chrome Extension UI](./images/chrome-extension.png)
+
 ---
 
 **Chrome Extension (Gmail Context)**
